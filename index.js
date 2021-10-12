@@ -48,7 +48,6 @@ class Moudle {
   /**
    *
    *
-   *
    */
 
   $wrap = (code) => {
